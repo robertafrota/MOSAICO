@@ -1,0 +1,285 @@
+@charset "UTF-8";
+
+*CSS DA HOME NOVIDADES***************************************************************************************************************************
+
+.imgconscnegra {
+       position: relative;
+       top:40px;
+       width:100%;
+       height:500px;
+       left:25px;
+       display: block;
+}
+
+.conscnegra { 
+        position: relative;
+        color: #ffeb00;
+        width:100%;
+        text-align: center;
+             }
+
+.consc{
+        position: relative;
+        top:50px;
+}
+
+
+.hum { 
+        position: relative;
+        top:100px;
+        color: black;
+        width:100%;
+        text-align: center;
+             }
+
+
+.imgnovidades {
+       position: relative;
+       width:100%;
+       height:400px;
+       left:25px;
+       display: block;
+       top: 85px;
+}
+
+.one{
+       position: relative;
+       top: 115px;
+}
+
+
+.imgparalamas {
+       width: 50%;
+       height: 420px;
+       position: relative;
+       top:120px;
+       left:25px;
+       
+}
+
+.paralamas {
+       color: #ffeb00;
+       width: 30%;
+       height: 100px;
+       position: relative;
+       left:850px;
+       bottom: 160px;
+       font-size: 30px;
+}
+
+.paralamassucesso{
+       position: relative;
+       top: 50px;
+}
+
+.imgavioes {
+       width: 50%;
+       height: 420px;
+       position: relative;
+       top: 40px;
+       left:25px;
+}
+
+.avioes {
+       color: black;
+       width: 30%;
+       height: 100px;
+       position: relative;
+       left:850px;
+       bottom: 250px;
+       font-size: 30px;
+}
+
+*CSS DA HOME AS MAIS TOCADAS*******************************************************************************************************
+
+.imgjorgeemateus {
+       position: relative;
+       width:100%;
+       height:500px;
+       display: block;
+}
+
+.jorgeemateus{
+       position: relative;
+       color: #ffeb00;
+       width:100%;
+       text-align: center;
+}
+
+.imghenriqueejuliano{
+       width: 50%;
+       height: 467px;
+       position: relative;
+       top:120px;
+}
+
+.henriqueejuliano{
+       color: black;
+       width: 30%;
+       height: 100px;
+       position: relative;
+       left:750px;
+       bottom: 300px;
+       font-size: 40px;
+}
+
+.justinbieber{
+        position: relative;
+        bottom:20px;
+        color: #ffeb00;
+        width:100%;
+        text-align: center;
+}
+
+.imgjustinbieber{
+       position: relative;
+       width:96%;
+       height:400px;
+       display: block;
+}
+
+.adele {
+       color: black;
+       width: 30%;
+       height: 100px;
+       position: relative;
+       left:750px;
+       bottom: 325px;
+       font-size: 50px; 
+}
+
+.imgadele{
+       width: 50%;
+       height: 420px;
+       position: relative;
+       top: 70px;
+}
+
+*CSS DA HOME AGENDA DE SHOWS*******************************************************************************************************
+
+.tonytornado {
+       width: 50%;
+       height: 520px;
+       position: relative;
+       bottom: 25px;
+       left:25px;
+}
+
+.mpb {
+       color: #ffeb00;
+       width: 30%;
+       height: 100px;
+       position: relative;
+       top: 230px;
+       left:900px;
+       font-size: 40px;
+}
+
+
+.imgelis{
+       width: 50%;
+       height: 420px;
+       position: relative;
+       top:80px;
+}
+
+.elis {
+       color: black;
+       width: 30%;
+       height: 100px;
+       position: relative;
+       left:850px;
+       bottom: 200px;
+       font-size: 30px;
+}
+
+
+.imgusp{
+       width: 50%;
+       height: 420px;
+       position: relative;
+       top: 95px;
+}
+
+.usp {
+       color: #ffeb00;
+       width: 30%;
+       height: 100px;
+       position: relative;
+       left:850px;
+       bottom: 300px;
+       font-size: 30px;
+}
+
+.imgpaulinho {
+       width: 50%;
+       height: 420px;
+       position: relative;
+       top: 70px;
+      
+}
+
+.paulinho{
+       color: black;
+       width: 30%;
+       height: 100px;
+       position: relative;
+       left:850px;
+       bottom: 200px;
+       font-size: 30px;
+}
+
+*CSS DA PAGINA CONSCIENCIA NEGRA*****************************************************************************************************************
+
+.folakemi {
+        position: relative;
+        width:96%;
+        height:500px;
+        left:25px;
+        display: block;
+}
+
+.title {
+        width: auto;
+        height:auto;
+        font-size: 30px;
+}
+
+.cantorafolakemi { 
+        color: #ffeb00;
+        position: relative;
+        width:100%;
+        text-align: center;
+             }
+
+.artconscnegra {
+        background-color: rgba(255, 255, 0, 0.09);
+        color: #ffce00;
+        width: auto;
+        height:auto;
+        position: relative;
+        font-size: 25px;
+        }
+
+.artonedirectionjustinbieber {
+        background-color: rgba(255, 255, 0, 0.09);
+        color: #ffce00;
+        width: auto;
+        height:auto;
+        position: relative;
+        font-size: 18px;
+        }
+
+.imgosparalamas {
+        position: relative;
+        width:100%;
+        height:500px;
+        display: block;
+}
+
+.imgosavioesforro{
+        position: relative;
+        width:100%;
+        height:500px;
+        display: block;
+}

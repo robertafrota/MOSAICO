@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.MuEspacinho{
+    padding: 10px 5px 10px 5px;
+}
+.MuBtn{
+    padding: 0px;
+    background-color: rgba(219, 18, 18, 0.09);
+}
+.MuMedio{
+    font-size: 1.2em;
+}

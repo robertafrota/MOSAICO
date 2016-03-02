@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.pmat {
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+.h2mat {
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+.secmat {
+    border: 1px solid black;
+}

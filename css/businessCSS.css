@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+/*--Business--*/
+
+h6{
+   font-family:  arial, helvetica, serif;
+   font-size: 28px;
+   font-weight: bold;
+    color:#000066; 
+}
+/*Colocar a linha azul horizontal */
+.linhaHr {
+      background-color: #000066;
+      height: 3px;
+      margin-top: 10px; 
+      -moz-box-sizing: content-box;
+       box-sizing: content-box;
+}
+
+/*Classe  divisao pontilhada */
+.divisoria-padrao{
+  width: 100%;
+  height: 0;
+  padding: 0;
+  padding-top: 20px;
+  margin: 0;
+  margin-bottom: 20px;
+  clear: both;
+  border: none;
+  border-bottom: 1px dotted #555555;
+}
+
+/*Classe do Sebrae */
+.imgSebrae{
+    
+    float: right;
+    
+}
+
+/*Classe das Propagandas */
+.imgPropaganda{
+    width:300px ; 
+    height:260px;
+}
+
+/*Classe dos banners */
+.MoImgEmpregos{
+     width:1135px ; 
+     height:350px;
+}
+
+
+.MoImgNegocios{
+     width:700px ; 
+     height:450px;
+}
+
+/*Classe da secao */
+.moSectionBusiness {
+    width: 1080px;
+    float: left;
+    background: #fff; 
+    border: 1px solid #dfdfdf;
+    margin-top: 20px;
+    border-bottom: 1px dotted #817770;
+    
+}
